@@ -1,0 +1,2 @@
+# AI-MEDIA-miniproject
+To begin with, I want to make a generation system. My miniproject topic is training GAN on a custom dataset, which uses the code given in the week 4.1 class. And I want to use GAN to help me generate a portfolio of images with a certain artistic style.Therefore, I searched the Internet for pictures of cats as the training dataset.After thinking about it, I chose the code content of week 4.1 as a reference.
